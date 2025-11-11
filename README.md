@@ -1,3 +1,6 @@
+[![CI](https://github.com/Shakour-Data/03-api-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/Shakour-Data/03-api-gateway/actions/workflows/ci.yml)
+[![CD](https://github.com/Shakour-Data/03-api-gateway/actions/workflows/cd.yml/badge.svg)](https://github.com/Shakour-Data/03-api-gateway/actions/workflows/cd.yml)
+
 # 🌐 API Gateway - Gravity Microservices Platform
 
 **Version:** 1.0.0  
@@ -415,3 +418,4 @@ MIT License - See LICENSE file
 
 *Last Updated: November 6, 2025*  
 *Status: Production Ready*
+
